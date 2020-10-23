@@ -3,7 +3,7 @@ layout: page
 title: Tmux conf
 permalink: /linux/tmux.html
 ---
-
+```
 # unbind default prefix and set it to ctrl-a
 unbind C-b
 set -g prefix M-a
@@ -81,3 +81,4 @@ set -g @plugin 'jimeh/tmux-themepack'
 set -g @themepack 'powerline/block/blue'
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
+```

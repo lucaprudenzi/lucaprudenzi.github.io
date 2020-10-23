@@ -3,7 +3,7 @@ layout: page
 title: Vimrc
 permalink: /linux/vimrc.html
 ---
-
+```
 " colorscheme
 syntax on
 set background=dark
@@ -77,4 +77,4 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'preservim/nerdtree'
 call vundle#end()            
 filetype plugin indent on   
-
+```
