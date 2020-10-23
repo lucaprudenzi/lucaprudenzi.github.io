@@ -1,6 +1,6 @@
 name: PhD blog
 #description: Master student of Astrophysics at Milan-Bicocca
-avatar: https://images.pond5.com/artist-visualise-gravitational-wave-footage-061490145_iconl.jpeg
+avatar: {{ site.baseurl }}/images/avatar.jpeg
 
 footer-links:
   github: lucaprudenzi
