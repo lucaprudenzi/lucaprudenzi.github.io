@@ -1,5 +1,10 @@
-## 
-###########################
+---
+layout: page
+title: Postprocessing LAL data
+permalink: /pe/lal.html
+---
+
+
 ## Create mid run plots
 - Enter in your venv
 - Take lalinference*.sh and rename it post_proc.sh
@@ -10,19 +15,19 @@ python auto_postprocess.py --batch_name multidag.dag+123323432
 - Change the webdir in the line with cbcBayesPostProc with *_mid
 - make executable post_proc.sh
 - Execute post_proc.sh
-##############################
+
 ##  Possible error
 - Since cbcBayesMCMC2pos has a burnin threshold, if there are not enough samples, all of them are discarded 
 and appears an error as 
 raise KeyError('Table not found: {0}'.format(tablename))
 KeyError: 'Table not found: posterior_samples'
 -
-#############################
+
 ## Interesting files
 - engine_V1H1L1.subs
 - lalinference*.dag: contains all the variables content  
 
-############################
+
 # lalinference_mpi_wrapper
 -
 # cbcBayesCombinePTMCMCh5s
