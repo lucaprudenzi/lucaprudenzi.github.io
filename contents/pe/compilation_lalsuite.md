@@ -4,6 +4,12 @@ title: Compilation LALSuite
 permalink: /pe/comp_lal.html
 ---
 
+When install lal in conda environment
+- export PREFIX="${CONDA_PREFIX}"
+- export CONDA_BUILD="1"
+- ./00boot
+- ./configure --prefix=${CONDA_PREFIX} CFLAGS="-Wno-error"
+
 Steps to compile lalsuite
 - mkdir -p ${VIRTUAL_ENV}/src
 - cd ${VIRTUAL_ENV}/src

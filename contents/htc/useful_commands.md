@@ -22,3 +22,6 @@ permalink: /htc/commands.html
 - squeue -u $user
 - scancel <jobid>
 - scct -j <jobid> 
+
+## GraceDB Auth
+- ligo-proxy-init luca.prudenzi 

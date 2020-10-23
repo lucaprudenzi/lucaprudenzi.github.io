@@ -1,7 +1,7 @@
 ---
 layout: page
 title: High Throughtput Computing
-permalink: /pe.html
+permalink: /htc.html
 ---
 
 Some interesting post:

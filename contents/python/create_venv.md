@@ -1,3 +1,9 @@
+---
+layout: page
+title: Virtual Env
+permalink: /python/venv.html
+---
+
 mkdir -p ~/venv/
 cd ~/venv
 
