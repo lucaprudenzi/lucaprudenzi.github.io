@@ -1,7 +1,4 @@
-
-
-# Projects
-
+# Projects Master degree
 Here there are the Github projects made during my master courses:
 - GW binary simulation in ThreeJS, [BinaryGW](https://github.com/lucaprudenzi/BinaryGW)
 - Virtual tour of worldwide radio telescopes, [TelescopeTour](https://github.com/lucaprudenzi/TelescopeTour) 
