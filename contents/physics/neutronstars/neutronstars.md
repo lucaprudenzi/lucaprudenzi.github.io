@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neutron stars
-permalink: /pe.html
+permalink: /physics/neutronstars.html
 ---
 Physics of NS
 
