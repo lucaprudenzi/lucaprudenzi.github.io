@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Tmux conf
-permalink: /linux/tmux.html
+title: Tmux.rc
+permalink: /linux/tmux/tmuxconf.html
 ---
+This is my .tmux.conf file:
 ```
 # unbind default prefix and set it to ctrl-a
 unbind C-b
