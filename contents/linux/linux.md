@@ -6,7 +6,6 @@ permalink: /linux.html
 
 Some interesting post:
 - [Git]({{ site.baseurl }}/linux/git.html)
-- [Tmux]({{ site.baseurl }}/linux/tmux/tmux.html)
+- [Tmux]({{ site.baseurl }}/linux/tmux.html)
 - [vimrc]({{ site.baseurl }}/linux/vimrc.html)
-- [tmux]({{ site.baseurl }}/linux/tmux.html)
 - [pulseaudio rec]({{ site.baseurl }}/linux/recording.html)
