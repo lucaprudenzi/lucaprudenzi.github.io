@@ -9,3 +9,4 @@ Some interesting post:
 - [Tmux]({{ site.baseurl }}/linux/tmux.html)
 - [vimrc]({{ site.baseurl }}/linux/vimrc.html)
 - [pulseaudio rec]({{ site.baseurl }}/linux/recording.html)
+- [DD]({{ site.baseurl }}/linux/dd.html)
